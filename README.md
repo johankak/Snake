@@ -34,12 +34,7 @@ Obrázek hada zobrazující se na úvodním start menu hry
 Možnosti rozšíření hry
 
 a) Hra Snake není nijak omezena časem - přidání režimu s časovým limitem na dosažení určitého skóre nebo úrovně
-
 b) Statické či pohyblivé překážky - například kámen, kterému se had musí vyhnout
-
 c) Doplnění zvukovými efekty - aktuálně je hra bez zvuku
-
 d) Vylepšení uživatelského rozhraní - přidání nastavení do menu, např. pro změnu pozadí hry nebo změny klávesovcýh zkratek
-
 e) Implementace režimu pro 2 hráče - vyvtoření 2 hadů 
-
